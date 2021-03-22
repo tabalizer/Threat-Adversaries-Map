@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<dateCreated>Mon Mar 22 2021 20:14:32 GMT+0100 (Central European Standard Time)</dateCreated>
+		<dateModified>Mon Mar 22 2021 20:14:32 GMT+0100 (Central European Standard Time)</dateModified>
+	</head>
+	<body>
+		<outline text="Actors &amp; Adversaries">
+			<outline text="Insider Threats"></outline>
+			<outline text="Terrorist Groups">
+				<outline text="Islamist Terrorist Organiztions">
+					<outline text="al-Mulathamun Battalion"></outline>
+					<outline text="Islamic State of Iraq and the Levant’s Branch in Libya"></outline>
+					<outline text="ISIS"></outline>
+					<outline text="al-Shabaab"></outline>
+					<outline text="Al-Qa’ida"></outline>
+					<outline text="Ansar al-Shari’a"></outline>
+					<outline text="Subtopic 6"></outline>
+					<outline text="Subtopic 7"></outline>
+					<outline text="Harakat ul-Jihad-i-Islami/Bangladesh (HUJI-B)"></outline>
+				</outline>
+				<outline text="European">
+					<outline text="North-Irland">
+						<outline text="Continuity Irish Republican Army"></outline>
+						<outline text="Real Irish Republican Army (RIRA)"></outline>
+					</outline>
+					<outline text="Greece">
+						<outline text="Revolutionary Struggle (RS)"></outline>
+					</outline>
+					<outline text="Spain"></outline>
+				</outline>
+				<outline text="Palestine">
+					<outline text="HAMAS"></outline>
+				</outline>
+				<outline text="Kurdistan">
+					<outline text="Kurdistan Workers Party (PKK, aka Kongra-Gel)"></outline>
+				</outline>
+				<outline text="Tamils">
+					<outline text="Liberation Tigers of Tamil Eelam (LTTE)"></outline>
+				</outline>
+				<outline text="South America">
+					<outline text="Revolutionary Armed Forces of Colombia (FARC)"></outline>
+				</outline>
+				<outline text="Asia">
+					<outline text="Communist Party of the Philippines/New People’s Army (CPP/NPA)"></outline>
+				</outline>
+			</outline>
+			<outline text="Criminals">
+				<outline text="Norway">
+					<outline text="YoungBloods"></outline>
+					<outline text="B-Gjengen/Young Guns"></outline>
+					<outline text="Sarurdarah Norge">
+						<outline text="Saturdarah Stavanger"></outline>
+						<outline text="Saturdarah Oslo"></outline>
+					</outline>
+					<outline text="Hells Angels Norway">
+						<outline text="HA Trondheim"></outline>
+						<outline text="HA Oslo"></outline>
+						<outline text="HA Bergen"></outline>
+						<outline text="HA Tromsø"></outline>
+						<outline text="HA Hamar"></outline>
+						<outline text="HA Skien"></outline>
+						<outline text="HA Drammen"></outline>
+					</outline>
+					<outline text="Bandidos MC Norway">
+						<outline text="Drammen"></outline>
+						<outline text="Fredrikstad"></outline>
+						<outline text="Kristiansand"></outline>
+						<outline text="Oslo"></outline>
+						<outline text="Porsgrunn"></outline>
+						<outline text="Stavanger"></outline>
+					</outline>
+				</outline>
+				<outline text="Sweden" type="link" _url="https://en.wikipedia.org/wiki/Organized_crime_in_Sweden">
+					<outline text="Brødraskapet"></outline>
+					<outline text="Original Gangsters"></outline>
+					<outline text="Södertäljenätverket"></outline>
+					<outline text="Naserligan"></outline>
+					<outline text="Black Cobra"></outline>
+					<outline text="K-Falangen"></outline>
+					<outline text="M-Falangen"></outline>
+					<outline text="Chosen Ones"></outline>
+					<outline text="Asir"></outline>
+					<outline text="Bredäng Warriors"></outline>
+					<outline text="Hells Angels Sweden">
+						<outline text="HA Malmø"></outline>
+						<outline text="HA Helsingborg"></outline>
+						<outline text="HA Stockholm"></outline>
+						<outline text="HA Eastside"></outline>
+						<outline text="HA Gothenburg"></outline>
+						<outline text="HA Karlstad"></outline>
+						<outline text="HA Goth Town"></outline>
+						<outline text="HA Capital City"></outline>
+						<outline text="HA Eskilstuna"></outline>
+						<outline text="HA Lulea"></outline>
+						<outline text="HA Uppsala"></outline>
+						<outline text="HA West Rock City"></outline>
+						<outline text="HA Hesselholm"></outline>
+					</outline>
+					<outline text="Bandidos MC Sweden">
+						<outline text=" Gothenburg"></outline>
+						<outline text=" Helsingborg"></outline>
+						<outline text=" Hoor"></outline>
+						<outline text=" Karlstad"></outline>
+						<outline text=" Kungälv"></outline>
+						<outline text=" Stockholm"></outline>
+						<outline text=" Trestad"></outline>
+						<outline text=" Wernamo"></outline>
+					</outline>
+				</outline>
+				<outline text="International">
+					<outline text="Organized Crime">
+						<outline text="MC Gang">
+							<outline text="Hells Angels"></outline>
+							<outline text="Saturdarah"></outline>
+							<outline text="Bandidos" type="link" _url="https://bandidosmc.eu/chapterseite-germany/"></outline>
+						</outline>
+						<outline text="Street Gang"></outline>
+						<outline text="Fraudster Gang"></outline>
+					</outline>
+				</outline>
+				<outline text="Denmark">
+					<outline text="Hells Angels Denmark">
+						<outline text="HA Aalborg"></outline>
+						<outline text="HA Aarhus"></outline>
+						<outline text="HA Central Area"></outline>
+						<outline text="HA Copenhagen"></outline>
+						<outline text="HA Kastrup"></outline>
+						<outline text="HA Nomads"></outline>
+						<outline text="HA Odense"></outline>
+						<outline text="HA Randers"></outline>
+						<outline text="HA South End"></outline>
+					</outline>
+					<outline text="Loyal to Familia"></outline>
+					<outline text="Bandidos MC Denmark">
+						<outline text=" Aalborg"></outline>
+						<outline text=" Ballerup"></outline>
+						<outline text=" Copenhagen"></outline>
+						<outline text=" Copenhagen Northside"></outline>
+						<outline text=" Frederiksvaerk"></outline>
+						<outline text=" Helsingor"></outline>
+						<outline text=" Hillerod"></outline>
+						<outline text=" Holbaek"></outline>
+						<outline text=" Horsens"></outline>
+						<outline text=" Naestved"></outline>
+						<outline text=" Padborg"></outline>
+						<outline text=" Randers"></outline>
+						<outline text=" Stenløse"></outline>
+					</outline>
+				</outline>
+				<outline text="Cyber Criminals">
+					<outline text="Unknown">
+						<outline text="Sodinokibi (CaaS)"></outline>
+						<outline text="Magecart CaaS"></outline>
+					</outline>
+					<outline text="Russia">
+						<outline text="Cobalt Group ATP"></outline>
+						<outline text="FIN7 APT"></outline>
+					</outline>
+					<outline text="China">
+						<outline text="Mirage APT"></outline>
+						<outline text="Comment Crew APT"></outline>
+						<outline text="PLATINUM APT"></outline>
+					</outline>
+					<outline text="USA">
+						<outline text="Equation Group APT"></outline>
+					</outline>
+					<outline text="Iran">
+						<outline text="OilRig APT"></outline>
+					</outline>
+				</outline>
+			</outline>
+			<outline text="(h)Acktivists">
+				<outline text="Persons">
+					<outline text="Kim Dotcom" type="link" _url="https://en.wikipedia.org/wiki/Kim_Dotcom"></outline>
+					<outline text="Edward Snowden" type="link" _url="https://en.wikipedia.org/wiki/Edward_Snowden"></outline>
+					<outline text="th3j35t3r" type="link" _url="https://en.wikipedia.org/wiki/The_Jester_(hacktivist)"></outline>
+				</outline>
+				<outline text="Organizations">
+					<outline text="Wikileaks" type="link" _url="https://en.wikipedia.org/wiki/WikiLeaks">
+						<outline text="Julian Assange" type="link" _url="https://en.wikipedia.org/wiki/Julian_Assange"></outline>
+						<outline text="Chelsea Manning" type="link" _url="https://en.wikipedia.org/wiki/Chelsea_Manning"></outline>
+					</outline>
+					<outline text="Anonymous" type="link" _url="https://en.wikipedia.org/wiki/Anonymous_(hacker_group)">
+						<outline text="Anonymous SockPuppets"></outline>
+					</outline>
+					<outline text="The Jackals"></outline>
+					<outline text="Syrian Electronic Army"></outline>
+				</outline>
+			</outline>
+			<outline text="Ideological ">
+				<outline text="Right Wing">
+					<outline text="Proud Boys"></outline>
+					<outline text="Aryan Brotherhood"></outline>
+				</outline>
+				<outline text="Left Wing">
+					<outline text="ANTIFA"></outline>
+				</outline>
+				<outline text="Religious"></outline>
+				<outline text="Norway">
+					<outline text="Radical Islamism">
+						<outline text="Profetens Umma"></outline>
+						<outline text="Islam Net"></outline>
+					</outline>
+					<outline text="Right Wing">
+						<outline text="Nordfront"></outline>
+						<outline text="Vigrid"></outline>
+						<outline text="Fyret"></outline>
+						<outline text="Løslatte drapsmenn"></outline>
+						<outline text="Norwegian Defence League"></outline>
+						<outline text="Norges Frihetsparti"></outline>
+						<outline text="SIAN"></outline>
+						<outline text="SION"></outline>
+						<outline text="Subtopic 9"></outline>
+						<outline text="Pegida"></outline>
+					</outline>
+					<outline text="Left Wing">
+						<outline text="Tjen folket"></outline>
+						<outline text="Antifa"></outline>
+					</outline>
+					<outline text="Environment">
+						<outline text="Extinciton Rebellion Norway"></outline>
+					</outline>
+				</outline>
+				<outline text="Environment">
+					<outline text="Extinction Rebellion"></outline>
+				</outline>
+				<outline text="Sweden">
+					<outline text="Right Wing">
+						<outline text="Alternative for Sweden"></outline>
+						<outline text="Anti-Jewish Action League of Sweden"></outline>
+						<outline text="Bevara Sverige Svenskt"></outline>
+						<outline text="Carl P. Herslow"></outline>
+						<outline text="National Democrats (Sweden)"></outline>
+						<outline text="New Swedish Movement"></outline>
+						<outline text="NordNat"></outline>
+						<outline text="Vera Oredsson"></outline>
+						<outline text="Party of the Swedes"></outline>
+						<outline text="Scania Party"></outline>
+						<outline text="Sweden Democrats"></outline>
+					</outline>
+					<outline text="White Nationalism">
+						<outline text="Bevara Sverige Svenskt"></outline>
+						<outline text="Gods of the Blood"></outline>
+						<outline text="Red Ice"></outline>
+						<outline text="Ultima Thule (Swedish band)"></outline>
+						<outline text="White Aryan Resistance (Sweden)"></outline>
+					</outline>
+					<outline text="Nazism">
+						<outline text="White Aryan Resistance (Sweden)"></outline>
+						<outline text="Johnny Bode"></outline>
+						<outline text="Easter Riots"></outline>
+						<outline text="Fascist People&apos;s Party of Sweden"></outline>
+						<outline text="Info-14"></outline>
+						<outline text="Legion Wasa"></outline>
+						<outline text="2009 Malmö anti-Israel riots"></outline>
+						<outline text="National Alliance (Sweden)"></outline>
+						<outline text="National League of Sweden"></outline>
+						<outline text="National Socialist Bloc"></outline>
+						<outline text="National Socialist Front"></outline>
+						<outline text="National Socialist Workers&apos; Party (Sweden)"></outline>
+						<outline text="New Swedish People&apos;s League"></outline>
+						<outline text="The Nordic Realm Party"></outline>
+						<outline text="Nordic Resistance Movement"></outline>
+						<outline text="Vera Oredsson"></outline>
+						<outline text="Pelle Svanslös"></outline>
+						<outline text="Ragnarock"></outline>
+						<outline text="Swedish Antisemitic Union"></outline>
+						<outline text="Swedish National Socialist Party"></outline>
+						<outline text="The Woman with the Handbag"></outline>
+					</outline>
+				</outline>
+			</outline>
+			<outline text="Nation-States">
+				<outline text="Russia">
+					<outline text="FSB"></outline>
+					<outline text="SVR"></outline>
+					<outline text="GRU"></outline>
+					<outline text=""></outline>
+					<outline text="Cyber">
+						<outline text="Bear">
+							<outline text="Cozy Bear - APT29"></outline>
+							<outline text="Fancy Bear - APT28"></outline>
+							<outline text="Venomous Bear"></outline>
+							<outline text="Voodoo Bear"></outline>
+						</outline>
+					</outline>
+				</outline>
+				<outline text="China">
+					<outline text="MSS - Ministry of State Security"></outline>
+					<outline text="Cyber">
+						<outline text="Panda">
+							<outline text="Anchor Panda - APT14"></outline>
+							<outline text="Deep Panda - APT19"></outline>
+							<outline text="Goblin Panda - APT27"></outline>
+							<outline text="Mustand Panda"></outline>
+							<outline text="Samurai Panda - APT4"></outline>
+							<outline text="Numbered Panda APT12"></outline>
+							<outline text="Dynamite Panda APT18"></outline>
+						</outline>
+					</outline>
+				</outline>
+				<outline text="Iran">
+					<outline text="IRGC - Revolutionary Guard"></outline>
+					<outline text="Cyber">
+						<outline text="Kitten">
+							<outline text="Clever Kitten"></outline>
+							<outline text="Helix Kitten - APT34"></outline>
+							<outline text="Pioneer Kitten"></outline>
+							<outline text="Refined Kitten - APT33"></outline>
+							<outline text="Elfin APT33"></outline>
+							<outline text="Charming Kitten APT"></outline>
+						</outline>
+					</outline>
+				</outline>
+				<outline text="North Korea">
+					<outline text="RGB - Reconnaissance Bureau"></outline>
+					<outline text="Cyber">
+						<outline text="Chollima">
+							<outline text="Stardust Chollima APT38"></outline>
+							<outline text="Ricochet Chollima APT37"></outline>
+						</outline>
+						<outline text="Lazarus Group">
+							<outline text="APT38"></outline>
+						</outline>
+					</outline>
+				</outline>
+				<outline text="Pakistan">
+					<outline text="ISI - Inter-Services Intelligence"></outline>
+					<outline text="Cyber">
+						<outline text="Leopard">
+							<outline text="Mythic Leopard APT36"></outline>
+						</outline>
+					</outline>
+				</outline>
+				<outline text="India">
+					<outline text="RAW - Research and Analysis Wing"></outline>
+					<outline text="Cyber">
+						<outline text="Tiger"></outline>
+					</outline>
+				</outline>
+			</outline>
+			<outline text="Thrill-Seekers"></outline>
+			<outline text="Threat Actors &amp; Adversaries Categorization Map v.0.9x
+
+Note: This is work in progress, it is preamture and will never be finnished!
+Author: tabalizer
+Date: 22.03.2021
+"></outline>
+			<outline text="PUPPET MASTER"></outline>
+		</outline>
+	</body>
+</opml>
